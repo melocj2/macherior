@@ -1,0 +1,62 @@
+html {
+  background-color: #c93f24be;
+  color: #e6dccf;
+  font-weight: normal;
+  font-family: 'Mija', sans-serif;
+}
+
+img {
+  border-radius: 25px;
+  margin: 2.5%;
+  box-shadow: 5px 5px 20px #000000;
+}
+
+#images {
+  
+  text-align: center;
+  white-space: nowrap;
+}
+
+img:hover {
+  height: 395.45px;
+  width: 297px;
+  position: relative;
+  margin-bottom: -20px;
+  margin-left: 1%;
+  margin-right: 1%;
+  box-shadow: none;
+
+}
+
+#mage:hover {
+  border: solid rgb(238, 83, 35)	5px;
+}
+
+#knight:hover {
+  border: solid rgb(35, 106, 238) 5px;
+}
+
+#archer:hover {
+  border: solid rgb(55, 167, 3) 5px;
+}
+
+table, h1 {
+  margin-left: 20%;
+}
+
+#bottomer {
+  text-align: center;
+  margin: 0;
+}
+
+table {
+  padding-top: 20px;
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+}
+
+#response {
+  margin-top: 50px;
+  padding-top: 30px;
+}
